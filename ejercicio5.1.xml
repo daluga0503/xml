@@ -1,0 +1,18 @@
+<ficha-personal>
+    <datos-personales>
+        <datos-personales nombre="Daniel"></datos-personales>
+        <apellidos>
+            <apellidos 1 ="Luque"></apellidos>
+            <apellidos 2="Gallardo"></apellidos>
+        </apellidos>
+        <fecha-naciemiento ="05/03/2004"></fecha-naciemiento>
+    </datos-personales>
+    <patologia>
+        <patologia tipo ="Gripe"></patologia>
+        <patalogia tipo urgente ="No"></patalogia>
+    </patologia>
+    <hospitalización>
+        <hospital-nombre="Gálvez"></hospital-nombre>
+        <num-habi="200"></num-habi>
+    </hospitalización>
+</ficha-personal>

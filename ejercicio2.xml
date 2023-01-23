@@ -1,0 +1,7 @@
+<escuderia>
+    <nombre>Ferrari</nombre>
+    <motor>Gasolina</motor>
+    <color>Azul</color>
+    <presupuesto>10 millones</presupuesto>
+    <Num-Pilotos>2</Num-Pilotos>
+</escuderia>

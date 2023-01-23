@@ -1,0 +1,9 @@
+<persona>
+    <nombre>Daniel</nombre>
+    <apellidos> <!-- el hijo tiene a suvez dos nietos -->
+        <apellido1>Luque</apellido1>
+        <apellido2>Gallardo</apellido2>
+    </apellidos>
+    <dni>77230568H</dni>
+    <Num-Hermanos>1</Num-Hermanos>
+</persona>

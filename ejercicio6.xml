@@ -1,0 +1,14 @@
+<mensaje>
+    <remite>
+        <nombre> ALfredo Reino</nombre>
+        <email>alf@gmail.com</email>
+    </remite>
+    <destinatario>
+        <nombre> Bill Clinton</nombre>
+        <email>president@whitehouse.gov</email>
+    </destinatario>
+    <asunto>Hola Bill</asunto>
+    <texto>
+        <parrafo>¿Hola que tal?</parrafo>
+    </texto>
+</mensaje>

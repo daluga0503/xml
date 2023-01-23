@@ -1,0 +1,25 @@
+<pedido>
+    <identidad>
+        Sr
+        <nombre>Juan</nombre>
+        <apellidos>
+            <apellido1>Delgado</apellido1>
+            <apellido2>Martínez</apellido2>
+        </apellidos>
+    </identidad>
+    <articulo-pedido>ha pedido una bicicleta A 2023</articulo-pedido>
+    entregar
+    <direccion>
+        <nombre-calle>Barco</nombre-calle>
+        <numero-edificio>4</numero-edificio>
+        <numero-piso>3</numero-piso>
+        piso
+        <letra-piso>A</letra-piso>
+    </direccion>
+    <fecha-de-entrega>
+        con fecha de entrega
+        <dia>20</dia>
+        <mes>Enero</mes>
+        <anno>2023</anno>
+    </fecha-de-entrega>
+</pedido>

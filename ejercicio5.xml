@@ -1,0 +1,18 @@
+<ficha-personal>
+    <datos-personales>
+        <nombre>Daniel</nombre>
+        <apellidos>
+            <apellido1>Luque</apellido1>
+            <apellido2>Gallardo</apellido2>
+        </apellidos>
+        <edad>18 </edad> años
+    </datos-personales>
+    <patologia>
+        <tipo>Gripe</tipo>
+            <urgente>No</urgente>
+    </patologia>
+    <hospitalizacion>
+        <nombre-hospital>Gálvez</nombre-hospital>
+        <num-habitacion>180</num-habitacion>
+    </hospitalizacion>
+</ficha-personal>

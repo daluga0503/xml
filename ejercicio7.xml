@@ -1,0 +1,26 @@
+<desayunos>
+    <tipo desayuno="1">
+        <nombre>Gofres</nombre>
+        <preciGofres>3.95</preciGofres>
+        <descripcion>Gofres belgas con nata</descripcion>
+        <calorias>650</calorias>
+    </tipo>
+    <tipo desayuno="2">
+        <nombre>Café solo</nombre>
+        <preciGofres>1.70</preciGofres>
+        <descripcion>Café Saimonaza</descripcion>
+        <calorias>70</calorias>
+    </tipo>
+    <tipo desayuno="3">
+        <nombre>Tostada</nombre>
+        <preciGofres>2.10</preciGofres>
+        <descripcion>Tostada de pan con aceite</descripcion>
+        <calorias>190</calorias>
+    </tipo>
+    <tipo desayuno="4">
+        <nombre>Completo</nombre>
+        <preciGofres>6.00</preciGofres>
+        <descripcion>Café+tostada+gofre</descripcion>
+        <calorias>910</calorias>
+    </tipo>
+</desayunos>

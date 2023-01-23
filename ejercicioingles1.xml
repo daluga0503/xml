@@ -1,0 +1,10 @@
+<person>
+    <name>Daniel</name>
+    <men></men>
+    <date-of-birth>
+        <day>5</day>
+        <mes>Marzo</mes>
+        <year>2004</year>
+    </date-of-birth>
+    <city>malaga</city>
+</person>

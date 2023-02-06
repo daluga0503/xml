@@ -1,33 +1,9 @@
-/* ej1 con un padre y 4 hijos*/
 
 <persona>
     <nombre>Daniel</nombre>
     <apellido1>Luque</apellido1>
     <apellido2>Gallardo</apellido2>
     <dni>77230568H</dni>
-    <NºHermanos>1</NºHermanos>
+    <NHermanos>1</NHermanos>
 </persona>
-
-
-/* ej1 variado*/
-<escuderia>
-    <nombre>Ferrari</nombre>
-    <motor>Gasolina</motor>
-    <color>Azul</color>
-    <presupuesto>10 millones</presupuesto>
-    <NºPilotos>2</NºPilotos>
-</escuderia>
-
-
-/* ej2 con un padre 4 hijos y 2 nietos de un solo hijo*/
-<persona>
-    <nombre>Daniel</nombre>
-    <apellidos> /* esto es un hijo y lo de adentro son los dos nietos */
-        <apellido1>Luque</apellido1>
-        <apellido2>Gallardo</apellido2>
-    </apellios>
-    <dni>77230568H</dni>
-    <NºHermanos>1</NºHermanos>
-</persona>
-
 

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE alumnos [
+    <!ELEMENT alumnos (alumno)+>
+    <!ELEMENT alumno (datos, curso, nota)>
+    <!ELEMENT datos (nombre, apellidos)>
+    <!ELEMENT apellidos (apellido1, apellido2)>
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT apellido1 (#PCDATA)>
+    <!ELEMENT apellido2 (#PCDATA)>
+    <!ELEMENT curso (#PCDATA)>
+    <!ELEMENT nota (#PCDATA)>
+]>
+<alumnos>
+    <alumno>
+        <datos>
+            <nombre>Daniel</nombre>
+            <apellidos>
+            <apellido1>Luque</apellido1>
+            <apellido2>Gallardo</apellido2>
+        </apellidos>
+        </datos>
+        <curso>1º DAM</curso>
+        <nota>Suspenso</nota>
+    </alumno>
+</alumnos>

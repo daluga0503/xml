@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<e1:Proveedores xmlns:e1="http://www.proveedores.com">
+ 
+ <e1:supplier>
+    <e1:title>SA</e1:title>
+    <e1:name_supplier>Infrico</e1:name_supplier>
+    <e1:tr>Infrico Services</e1:tr> <!--Transporte -->
+
+    <e1:title>SL</e1:title>
+    <e1:name_supplier>Intarcon</e1:name_supplier>
+    <e1:tr>DHL</e1:tr> <!--Transporte -->
+ </e1:supplier>
+ 
+ <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <xhtml:head>
+            
+    </xhtml:head>
+    <xhtml:body>
+        <xhtml:title> Proveedores</xhtml:title>
+        <xhtml:table>
+            <xhtml:tr>      <!-- FILAS1-->
+                <xhtml:th> Nombre </xhtml:th>   <!-- Encabezado-->
+                <xhtml:th> Sociedad </xhtml:th>
+                <xhtml:th> Transporte </xhtml:th> 
+            </xhtml:tr>
+            <xhtml:tr>      <!-- FILA 2-->
+                <xhtml:td> Infrico </xhtml:td>   <!-- COLUMNA1-->
+                <xhtml:td> SA </xhtml:td>
+                <xhtml:td> Infrico Services </xhtml:td> 
+            </xhtml:tr>      <!-- FILA 3-->
+            <xhtml:tr>
+                <xhtml:td> Intarcon </xhtml:td>   <!-- COLUMNA2-->
+                <xhtml:td> SL </xhtml:td>
+                <xhtml:td> DHL </xhtml:td> 
+            </xhtml:tr>
+
+        </xhtml:table>
+    </xhtml:body>
+</xhtml:html>
+</e1:Proveedores>

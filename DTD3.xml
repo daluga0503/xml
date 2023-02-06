@@ -1,0 +1,27 @@
+<!DOCTYPE pais [
+    <!ELEMENT pais (datos*)>
+    <!ATTLIST pais country CDATA #REQUIRED>
+    <!ELEMENT datos (capital, (provincia | condado)*)>
+    <!ELEMENT capital (#PCDATA)>
+    <!ELEMENT provincia (capitalprovincia, localidad+)>
+    <!ATTLIST provincia county CDATA #FIXED >
+    <!ELEMENT localidad (nombre-localidad, (codigopostal | zipcode)+)>
+    <!ELEMENT nombre-localidad (#PCDATA)>
+    <!ELEMENT codigopostal (#PCDATA)>
+    <!ELEMENT capitalprovincia (#PCDATA)>
+]>
+
+
+
+<pais country="España">
+    <datos>
+        <capital>Villa de Madrid</capital>
+            <provincia county="Málaga">
+                <capitalprovincia>Málaga</capitalprovincia>
+                <localidad>
+                    <nombre-localidad>Torremolinos</nombre-localidad>
+                    <codigopostal>29620</codigopostal>
+                </localidad>
+            </provincia>
+    </datos>
+</pais>
